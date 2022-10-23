@@ -10,8 +10,10 @@ We set $x_i = l\cdot i$ with $i\in\mathbb{Z}$, we obtain an example of diffusion
 
 
 
-Diffusion                  |  Probability diffusion
+Diffusion
 
-:-------------------------:|:-------------------------:
+![](diffusion.gif)
 
-![](diffusion.gif)         |  ![](Probability_diffusion.gif)
+Probability distribution
+
+![](Probability_diffusion.gif)
